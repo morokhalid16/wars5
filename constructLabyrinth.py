@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 from intersection import Intersection as inter
 import orientation as orient
 from orientation import Orientation as ori
-
+##
 
 class Labyrinth():
     entry_name = "ENTRY"
